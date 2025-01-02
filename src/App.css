@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.blank{
+  color: red;
+}
+.board-row {
+  padding: 0px 20px;
+}
+.square {
+  padding: 5px 10px;
+}
