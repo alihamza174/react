@@ -2,6 +2,7 @@ import Navbar from './components/Navbar';
 import './App.css';
 import { useState } from 'react';
 import QuestionList from './components/QuestionList'
+import { Form } from './components/Form';
 
 
 
@@ -17,6 +18,7 @@ function App() {
       <div className='container'>
         <Navbar name1="ali" about="hamza" />
         <QuestionList/>
+        <Form/>
       </div>
     </>
   );
