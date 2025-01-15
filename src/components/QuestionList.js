@@ -3,7 +3,7 @@ function QuestionList() {
   const questionList = [
     {
       id: 1,
-      name: "Question 1",
+      name: "Question 0",
       tag: "Ruby"
     },
     {
