@@ -4,7 +4,7 @@ function QuestionList() {
     {
       id: 1,
       name: "Question 0",
-      tag: "Ruby"
+      tag: "Ruby",
     },
     {
       id: 2,
