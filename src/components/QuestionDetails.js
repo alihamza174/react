@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function QuestionDetails({question}){
   const [like, setlike] = useState(0)
-  
+
   return(
     <div className="card rounded-0 mt-3">
       <h3 className="card-title">{question.name}</h3>
